@@ -37,8 +37,11 @@
 **Social contacts**
 
 <a href="https://www.linkedin.com/in/cristian-donati/" title="LinkedIn" target="_blank"><img height="24" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
+&nbsp;
 <a href="https://www.facebook.com/Cristian.Donati.1980" title="Facebook" target="_blank"><img height="24" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg"></a>
+&nbsp;
 <a href="https://www.instagram.com/cris.donati" title="Instagram" target="_blank"><img height="24" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></a>
+&nbsp;
 <a href="https://twitter.com/cristiandonati8" title="Twitter" target="_blank"><img height="24" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
 
 
