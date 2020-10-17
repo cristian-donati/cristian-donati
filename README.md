@@ -35,7 +35,7 @@
 
 
 **Social contacts**
-<br/>
+<br/><br/>
 <a href="https://www.linkedin.com/in/cristian-donati/" title="LinkedIn" target="_blank"><img height="24" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
 &nbsp;
 <a href="https://www.facebook.com/Cristian.Donati.1980" title="Facebook" target="_blank"><img height="24" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg"></a>
@@ -48,7 +48,7 @@
 
 <details open>
  <summary><b>Looking forward to learn</b></summary>
-<br>  
+
 <code><a href="https://reactjs.org" title="React" target="_blank"><img height="48" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 </details>
 
