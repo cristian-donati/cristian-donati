@@ -3,7 +3,6 @@
 
 <code><a href="https://angular.io/" title="Angular" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
-<code><a href="https://git-scm.com/" title="Git" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 <code><a href="https://www.json.org/" title="Json" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 
@@ -14,6 +13,7 @@
 
 <code><a href="https://www.atlassian.com/it/software/jira" title="Jira" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a></code>
 <code><a href="https://bitbucket.org/" title="BitBucket" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" title="Git" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 
 <code><a href="https://aws.amazon.com/" title="Amazon Web Services" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
