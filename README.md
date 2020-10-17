@@ -1,5 +1,5 @@
 **Tech stacks currently using**
-<br>
+<br/>
 
 <code><a href="https://angular.io" title="Angular" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
@@ -16,7 +16,6 @@
 <code><a href="https://bitbucket.org" title="BitBucket" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></a></code>
 <code><a href="https://git-scm.com" title="Git" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
-
 <code><a href="https://www.jenkins.io" title="Jenkins" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
 <code><a href="https://www.ansible.com" title="Ansible" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
 
@@ -26,9 +25,10 @@
 <code><a href="https://azure.microsoft.com" title="Azure" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com" title="Google Cloud" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
-<br>
+<br/>
+
 **Looking forward to learn**
-<br>
+<br/>
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
