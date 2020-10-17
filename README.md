@@ -45,6 +45,8 @@
 <a href="https://twitter.com/cristiandonati8" title="Twitter" target="_blank"><img height="24" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
 
 
+![](https://komarev.com/ghpvc/?username=cristian-donati&color=brightgreen)
+
 
 <!--
 ### Hi there 👋
