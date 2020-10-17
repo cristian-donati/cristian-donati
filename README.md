@@ -1,7 +1,7 @@
 **✨ Tech stacks currently using** <br>
 <br>
 
-<code><a href="https://angular.io" title="Angular" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">&nbsp;<br>&nbsp;<br>&nbsp;</a></code>
+<code><a href="https://angular.io" title="Angular" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a></code>
 <a href="https://angular.io" title="Angular" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a>
 
 
