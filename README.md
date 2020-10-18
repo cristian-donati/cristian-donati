@@ -64,7 +64,10 @@
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
- <p> 
+ <p>
+ 
+ ![GitHub](https://img.shields.io/badge/ -GitHub-292e33?style=flat-square&logo=github)
+ <br/> 
     <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
  <br/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
