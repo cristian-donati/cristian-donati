@@ -66,8 +66,12 @@
 
  <p> 
     <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
+ <br/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white">
+ <br/>
+    <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Webstorm-000000?style=flat-square&logo=Webstorm&logoColor=white">
  <br/>
     <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
     <img src="https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=BitBucket&logoColor=white">
