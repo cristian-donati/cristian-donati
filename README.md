@@ -64,7 +64,8 @@
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
- <p>
+ <p> 
+    <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white">
  <br/>
@@ -98,23 +99,12 @@
     <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
  <br/>
+    <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white">
+ <br/>
+    <img src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white">
  <br/>
  <br/>
- <br/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white">
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white">
-    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white">
-    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"><br/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white">
-    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white">
-    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white">
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white">
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white">
-    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white">
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white">
-  </p>
+</p>
 
 <p>
   <a href="https://instagram.com/cris-donati"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
