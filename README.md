@@ -66,7 +66,8 @@
 
  <p>
  
- ![GitHub](https://img.shields.io/badge/ -GitHub-292e33?style=flat-square&logo=github)
+ ![GitHub](https://img.shields.io/badge/-GitHub-292e33?style=flat-square&logo=github)
+ ![GitHub](https://img.shields.io/badge/%20-GitHub-292e33?style=flat-square&logo=github)
  <br/> 
     <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
  <br/>
