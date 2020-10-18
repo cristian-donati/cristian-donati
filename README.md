@@ -114,6 +114,7 @@
     <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white">
  <br/>
     <img src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white">
+    <img src="https://img.shields.io/badge/-OpenID-F78C40?style=flat-square&logo=OpenID&logoColor=white">
     <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white">
  <br/>
     <img src="https://img.shields.io/badge/-CodeWars-AD2C27?style=flat-square&logo=CodeWars&logoColor=white">
