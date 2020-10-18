@@ -103,6 +103,12 @@
  <br/>
     <img src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white">
  <br/>
+    <img src="https://img.shields.io/badge/-CodeWars-AD2C27?style=flat-square&logo=CodeWars&logoColor=white">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white">
+ <br/>
+    <img src="https://img.shields.io/badge/-Pluralsight-F15B2A?style=flat-square&logo=Pluralsight&logoColor=white">
+    <img src="https://img.shields.io/badge/-Coursera-2A73CC?style=flat-square&logo=Coursera&logoColor=white">
+ <br/>
  <br/>
 </p>
 
