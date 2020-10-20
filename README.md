@@ -1,48 +1,48 @@
 **Technology stacks currently using**
 <br/>
-Frameworks:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Frameworks:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|||
 <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white">
 <br/>
-IDEs: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+IDEs: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;|||
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
 <img src="https://img.shields.io/badge/-Webstorm-000000?style=flat-square&logo=Webstorm&logoColor=white">
 <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
 <br/>
-Version control systems:&emsp;&emsp;&emsp;
+Version control systems:&emsp;&emsp;&emsp;|||
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=BitBucket&logoColor=white">
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=Azure%20DevOps&logoColor=white">
 <br/>
-Task management systems:&emsp;&emsp;
+Task management systems:&ensp;&nbsp;&nbsp;&nbsp;|||
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white">
 <br/>
-Databases:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Databases:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;|||
 <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white">
 <br/>
-Cloud providers:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Cloud providers:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|||
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white">
 <br/>
-CI/CD tools:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+CI/CD tools:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;|||
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
 <br/>
-Learning sources:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Learning sources:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|||
 <img src="https://img.shields.io/badge/-Pluralsight-F15B2A?style=flat-square&logo=Pluralsight&logoColor=white">
 <img src="https://img.shields.io/badge/-Coursera-2A73CC?style=flat-square&logo=Coursera&logoColor=white">
 <br/>
-Learning check platforms:&emsp;&emsp;
+Learning check platforms:&emsp;&emsp;&ensp;|||
 <img src="https://img.shields.io/badge/-CodeWars-AD2C27?style=flat-square&logo=CodeWars&logoColor=white">
 <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white">
 <br/>
-Browsers:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Browsers:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|||
 <img src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white">
 <img src="https://img.shields.io/badge/-Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=white">
 <img src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white">
