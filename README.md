@@ -17,7 +17,7 @@ Version control systems:&emsp;&emsp;&emsp;|||
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=Azure%20DevOps&logoColor=white">
 <br/>
-Task management systems:&ensp;&nbsp;&nbsp;&nbsp;|||
+Task management systems:&ensp;&nbsp;&nbsp;&nbsp;&ensp;|||
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white">
 <br/>
