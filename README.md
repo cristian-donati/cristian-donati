@@ -1,4 +1,8 @@
 **Tech stacks currently using**
+
+|Frameworks|<img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white">|
+|IDEs|<img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">|
+
 <br/>
 Frameworks:
 <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
