@@ -130,10 +130,7 @@ Browsers
 </table>
 <br/>
 
-**Looking forward to learn**
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
+&emsp;Looking forward to learn&emsp;&emsp;&ensp;<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <br/>
 
 <!--
