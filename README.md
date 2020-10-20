@@ -112,7 +112,7 @@ Browsers
 <img src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white">
 <img src="https://img.shields.io/badge/-Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=white">
 <img src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white">
-<img src="https://img.shields.io/badge/-Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white">
+<img src="https://img.shields.io/badge/-Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white&link=https://twitter.com/cristiandonati">
 </td></tr>
 </table>
 <br/>
@@ -127,7 +127,7 @@ Browsers
 <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/cristiandonati8" target="_blank">![](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <br/>
 
 <details open>
@@ -142,3 +142,4 @@ Browsers
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=cristian-donati&color=brightgreen)
+
