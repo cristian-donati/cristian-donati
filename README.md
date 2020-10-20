@@ -127,10 +127,22 @@ Browsers
 <img src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white">
 <img src="https://img.shields.io/badge/-Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white&link=https://twitter.com/cristiandonati">
 </td></tr>
+<tr><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td></tr>
+<tr><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td></tr>
+<tr><td>
+Looking forward to learn
+</td><td>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
+</td></tr>
 </table>
-<br/>
-
-&emsp;Looking forward to learn&emsp;&emsp;&ensp;<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <br/>
 
 <!--
