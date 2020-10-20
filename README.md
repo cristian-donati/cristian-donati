@@ -3,13 +3,36 @@
 
 <table>
 <tr><td>
-Frameworks:
+Frameworks
 </td><td>
 <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white">
 </td></tr>
 <tr><td>
-IDEs:
+Databases
+</td><td>
+<img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white">
+</td></tr>
+<tr><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td></tr>
+<tr><td>
+Cloud providers
+</td><td>
+<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white">
+</td></tr>
+<tr><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td></tr>
+<tr><td>
+IDEs
 </td><td>
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
@@ -32,23 +55,20 @@ Task management systems
 <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white">
 </td></tr>
 <tr><td>
-Databases
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td><td>
-<img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white">
-</td></tr>
-<tr><td>
-Cloud providers
-</td><td>
-<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
-<img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td></tr>
 <tr><td>
 CI/CD tools
 </td><td>
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
+</td></tr>
+<tr><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td></tr>
 <tr><td>
 Learning sources
@@ -63,17 +83,9 @@ Learning check platforms
 <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white">
 </td></tr>
 <tr><td>
-Browsers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td><td>
-<img src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white">
-<img src="https://img.shields.io/badge/-Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=white">
-<img src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white">
-<img src="https://img.shields.io/badge/-Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white">
-</td></tr>
-<tr><td>
-&nbsp;
-</td><td>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td></tr>
 <tr><td>
 Web technology
@@ -94,6 +106,14 @@ Web technology
 <img src="https://img.shields.io/badge/-OpenID-F78C40?style=flat-square&logo=OpenID&logoColor=white">
 <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white">
 </td></tr>
+<tr><td>
+Browsers
+</td><td>
+<img src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white">
+<img src="https://img.shields.io/badge/-Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=white">
+<img src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white">
+<img src="https://img.shields.io/badge/-Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white">
+</td></tr>
 </table>
 <br/>
 
@@ -104,10 +124,10 @@ Web technology
 
 **Social contacts**
 <br/>
-<a href="https://www.facebook.com/Cristian.Donati.1980"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/cris-donati"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/cristian-donati"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/cristiandonati8"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <br/>
 
 <details open>
