@@ -1,37 +1,31 @@
 **Tech stacks currently using**
-
-|Frameworks|<img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white">|
-|IDEs|<img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">|
-
 <br/>
-Frameworks:
+Frameworks:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white">
 <br/>
-IDEs: 
+IDEs: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
 <img src="https://img.shields.io/badge/-Webstorm-000000?style=flat-square&logo=Webstorm&logoColor=white">
 <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
 <br/>
-Version control systems:
+Version control systems:&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=BitBucket&logoColor=white">
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=Azure%20DevOps&logoColor=white">
 <br/>
-Task management systems:
+Task management systems:&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white">
-
-
 <br/>
-Databases:
+Databases:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white">
 <br/>
-Cloud providers:
+Cloud providers:&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white">
