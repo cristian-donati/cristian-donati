@@ -135,6 +135,7 @@ Browsers
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <br/>
 
+<!--
 <details open>
 <summary><b>Looking forward to learn</b></summary>
 
@@ -143,6 +144,7 @@ Browsers
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
 </details>
+-->
 
 <br/>
 
