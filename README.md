@@ -1,4 +1,4 @@
-**Tech stacks currently using**
+**Technology stacks currently using**
 <br/>
 Frameworks:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white">
@@ -21,31 +21,28 @@ Task management systems:&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white">
 <br/>
-Databases:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Databases:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white">
 <br/>
-Cloud providers:&emsp;&emsp;&emsp;&emsp;&emsp;
+Cloud providers:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white">
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white">
 <br/>
-CI/CD tools
+CI/CD tools:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
-
-
 <br/>
-Learning sources:
+Learning sources:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Pluralsight-F15B2A?style=flat-square&logo=Pluralsight&logoColor=white">
 <img src="https://img.shields.io/badge/-Coursera-2A73CC?style=flat-square&logo=Coursera&logoColor=white">
 <br/>
-Learning check platforms:
+Learning check platforms:&emsp;&emsp;
 <img src="https://img.shields.io/badge/-CodeWars-AD2C27?style=flat-square&logo=CodeWars&logoColor=white">
 <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white">
-
 <br/>
-Browsers:
+Browsers:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white">
 <img src="https://img.shields.io/badge/-Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=white">
 <img src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white">
