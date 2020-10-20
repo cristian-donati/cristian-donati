@@ -76,7 +76,7 @@ Task management systems
 CI/CD tools
 </td><td>
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"> -->
 </td></tr>
 <tr><td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
