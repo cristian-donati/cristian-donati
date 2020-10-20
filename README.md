@@ -1,3 +1,15 @@
+**Social contacts**
+<br/>
+<br/>
+<a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<br/>
+
 **Technology stacks currently using**
 <br/>
 
@@ -120,14 +132,6 @@ Browsers
 **Looking forward to learn**
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
-<br/>
-
-**Social contacts**
-<br/>
-<a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <br/>
 
 <details open>
