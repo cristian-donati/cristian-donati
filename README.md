@@ -141,6 +141,7 @@ Browsers
 Looking forward to learn
 </td><td>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/-Blazor-5C2D91?style=flat-square&logo=Blazor&logoColor=white">
 </td></tr>
 </table>
 <br/>
