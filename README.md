@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1" height="32">
 </p>
 
-### Tools
+## Tools
 
 <p>
     <img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" height="32">
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=Trello&logoColor=0079BF" height="32">
 </p>
 
-### Cloud providers
+## Cloud providers
 <p>
     <img src="https://img.shields.io/badge/Amazon%20AWS-white?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" height="32">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-white?style=for-the-badge&logo=Microsoft%20Azure&logoColor=0089D6" height="32">
