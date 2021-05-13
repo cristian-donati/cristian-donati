@@ -53,7 +53,7 @@
 
 
 
-### Preferred browsers
+## Preferred browsers
 <p>
     <img src="https://img.shields.io/badge/Chrome-white?style=for-the-badge&logo=Google%20Chrome&logoColor=4285F4" height="32">
     <img src="https://img.shields.io/badge/Edge-white?style=for-the-badge&logo=Microsoft%20Edge&logoColor=0078D7" height="32">
