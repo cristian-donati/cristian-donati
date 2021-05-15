@@ -6,6 +6,7 @@
     <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-white.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="32"></a>
 </p>
 ##  &nbsp;
+
 ### Frameworks & Languages
 <p align="center">
     <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.net&logoColor=5128D4" height="32">
@@ -21,6 +22,7 @@
     <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1" height="32">
 </p>
 ##  &nbsp;
+
 ### Tools
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" height="32">
