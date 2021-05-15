@@ -3,7 +3,7 @@
     <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-white.svg?style=for-the-badge&logo=facebook&logoColor=1877F2" height="32"></a>
     &emsp;&ensp;
     <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-white.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" height="32"></a>
-    &emsp;&ensp;
+    &emsp;&ensp;&nbsp;
     <a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-white.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="32"></a>
     &emsp;&ensp;
     <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-white.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="32"></a>
@@ -31,15 +31,15 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" height="32">
     &emsp;&ensp;&ensp;
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" height="32">
-    &emsp;&ensp;&nbsp;
+    &emsp;&ensp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Webstorm-white?style=for-the-badge&logo=Webstorm&logoColor=000000" height="32">
     <br/>
     <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F44D27" height="32">
-    &emsp;&emsp;&emsp;&nbsp;
+    &emsp;&emsp;&emsp;&ensp;
     <img src="https://img.shields.io/badge/BitBucket-white?style=for-the-badge&logo=BitBucket&logoColor=0052CC" height="32">
-    &emsp;&emsp;&emsp;&nbsp;
+    &emsp;&emsp;&emsp;&ensp;
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=181717" height="32">
-    &emsp;&emsp;&emsp;&nbsp;
+    &emsp;&emsp;&emsp;&ensp;
     <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=GitLab&logoColor=FCA121" height="32">
     <br/>
     <img src="https://img.shields.io/badge/Azure%20DevOps-white?style=for-the-badge&logo=Azure%20DevOps&logoColor=0078D7" height="32">
@@ -70,9 +70,9 @@
     <img src="https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=NPM&logoColor=CB3837" height="32">
     <br/>
     <img src="https://img.shields.io/badge/OpenID-white?style=for-the-badge&logo=OpenID&logoColor=F78C40" height="32">
-    &emsp;
+    &emsp;&ensp;
     <img src="https://img.shields.io/badge/Auth0-white?style=for-the-badge&logo=Auth0&logoColor=EB5424" height="32">
-    &emsp;&nbsp;
+    &emsp;&ensp;
     <img src="https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=000000" height="32">
 </p>
 
