@@ -43,11 +43,11 @@
     <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=GitLab&logoColor=FCA121" height="32">
     <br/>
     <img src="https://img.shields.io/badge/Azure%20DevOps-white?style=for-the-badge&logo=Azure%20DevOps&logoColor=0078D7" height="32">
-    &emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&nbsp;
     <img src="https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=D24939" height="32">
     <br/>
     <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC" height="32">
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;
     <img src="https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=Trello&logoColor=0079BF" height="32">
 </p>
 
@@ -90,11 +90,11 @@
 ## Learning sources & assessment
 <p align="center">
     <img src="https://img.shields.io/badge/Pluralsight-white?style=for-the-badge&logo=Pluralsight&logoColor=F15B2A" height="32">
-    &emsp;&emsp;&ensp;&nbsp;
+    &emsp;&emsp;&ensp;&ensp;
     <img src="https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=Coursera&logoColor=2A73CC" height="32">
     <br/>
     <img src="https://img.shields.io/badge/CodeWars-white?style=for-the-badge&logo=CodeWars&logoColor=AD2C27" height="32">
-    &emsp;&emsp;&ensp;&nbsp;
+    &emsp;&emsp;&ensp;&ensp;
     <img src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=HackerRank&logoColor=2EC866" height="32">
 </p>
 
