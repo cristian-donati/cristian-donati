@@ -12,7 +12,7 @@
 ## Frameworks & Languages
 <p align="center">
     <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.net&logoColor=5128D4" height="32">
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=239120" height="32">
     <br/>
     <img src="https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=DD0031" height="32">
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=007ACC" height="32">
     <br/>
     <img src="https://img.shields.io/badge/SQL%20Server-white?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=CC2927" height="32">
-    &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
     <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1" height="32">
 </p>
 
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" height="32">
     &emsp;&ensp;&ensp;&nbsp;
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" height="32">
-    &emsp;&ensp;&nbsp;&emsp;
+    &emsp;&ensp;&nbsp;&ensp;
     <img src="https://img.shields.io/badge/Webstorm-white?style=for-the-badge&logo=Webstorm&logoColor=000000" height="32">
     <br/>
     <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F44D27" height="32">
@@ -90,11 +90,11 @@
 ## Learning sources & assessment
 <p align="center">
     <img src="https://img.shields.io/badge/Pluralsight-white?style=for-the-badge&logo=Pluralsight&logoColor=F15B2A" height="32">
-    &emsp;&emsp;&ensp;
+    &emsp;&emsp;&ensp;&nbsp;
     <img src="https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=Coursera&logoColor=2A73CC" height="32">
     <br/>
     <img src="https://img.shields.io/badge/CodeWars-white?style=for-the-badge&logo=CodeWars&logoColor=AD2C27" height="32">
-    &emsp;&emsp;&ensp;
+    &emsp;&emsp;&ensp;&nbsp;
     <img src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=HackerRank&logoColor=2EC866" height="32">
 </p>
 
