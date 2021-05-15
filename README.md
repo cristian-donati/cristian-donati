@@ -29,7 +29,7 @@
 ## Tools
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" height="32">
-    &emsp;&ensp;&ensp;
+    &emsp;&ensp;&ensp;&nbsp;
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" height="32">
     &emsp;&ensp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Webstorm-white?style=for-the-badge&logo=Webstorm&logoColor=000000" height="32">
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F44D27" height="32">
     &emsp;&emsp;&emsp;&ensp;
     <img src="https://img.shields.io/badge/BitBucket-white?style=for-the-badge&logo=BitBucket&logoColor=0052CC" height="32">
-    &emsp;&emsp;&emsp;&ensp;
+    &emsp;&emsp;&emsp;&ensp;&nbsp;
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=181717" height="32">
     &emsp;&emsp;&emsp;&ensp;
     <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=GitLab&logoColor=FCA121" height="32">
@@ -54,7 +54,7 @@
 ## Cloud providers
 <p align="center">
     <img src="https://img.shields.io/badge/Amazon%20AWS-white?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" height="32">
-    &emsp;&emsp;
+    &emsp;&emsp;&nbsp;
     <img src="https://img.shields.io/badge/Microsoft%20Azure-white?style=for-the-badge&logo=Microsoft%20Azure&logoColor=0089D6" height="32">
     &emsp;&emsp;&nbsp;
     <img src="https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=Google%20Cloud&logoColor=4285F4" height="32">
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Edge-white?style=for-the-badge&logo=Microsoft%20Edge&logoColor=0078D7" height="32">
     &emsp;&emsp;&emsp;&emsp;&nbsp;
     <img src="https://img.shields.io/badge/Firefox-white?style=for-the-badge&logo=Firefox&logoColor=FF7139" height="32">
-    &emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&nbsp;
     <img src="https://img.shields.io/badge/Opera-white?style=for-the-badge&logo=Opera&logoColor=FF1B2D" height="32">
 </p>
 
