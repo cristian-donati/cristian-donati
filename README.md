@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" height="32">
     &emsp;&ensp;&ensp;&nbsp;
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" height="32">
-    &emsp;&ensp;&nbsp;&nbsp;
+    &emsp;&ensp;&nbsp;&emsp;
     <img src="https://img.shields.io/badge/Webstorm-white?style=for-the-badge&logo=Webstorm&logoColor=000000" height="32">
     <br/>
     <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F44D27" height="32">
