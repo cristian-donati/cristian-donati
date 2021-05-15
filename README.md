@@ -1,10 +1,10 @@
 ### Connect with me
-<p align="center">
+<span align="center">
     <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-white.svg?style=for-the-badge&logo=facebook&logoColor=1877F2" height="32"></a>
     <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-white.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" height="32"></a>
     <a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-white.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="32"></a>
     <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-white.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="32"></a>
-</p>
+</span>
 
 ##  &nbsp;
 
