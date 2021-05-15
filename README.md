@@ -6,7 +6,7 @@
     <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-white.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="32"></a>
 </p>
 
-### Frameworks & Languages
+## Frameworks & Languages
 <p align="center">
     <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.net&logoColor=5128D4" height="32">
     <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=239120" height="32">
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1" height="32">
 </p>
 
-### Tools
+## Tools
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" height="32">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" height="32">
@@ -39,14 +39,14 @@
     <img src="https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=Trello&logoColor=0079BF" height="32">
 </p>
 
-### Cloud providers
+## Cloud providers
 <p align="center">
     <img src="https://img.shields.io/badge/Amazon%20AWS-white?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" height="32">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-white?style=for-the-badge&logo=Microsoft%20Azure&logoColor=0089D6" height="32">
     <img src="https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=Google%20Cloud&logoColor=4285F4" height="32">
 </p>
 
-### Other knowledge
+## Other knowledge
 <p align="center">
     <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=563D7C" height="32">
     <img src="https://img.shields.io/badge/Material%20Design-white?style=for-the-badge&logo=Material%20Design&logoColor=757575" height="32">
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=000000" height="32">
 </p>
 
-### Preferred browsers
+## Preferred browsers
 <p align="center">
     <img src="https://img.shields.io/badge/Chrome-white?style=for-the-badge&logo=Google%20Chrome&logoColor=4285F4" height="32">
     <img src="https://img.shields.io/badge/Edge-white?style=for-the-badge&logo=Microsoft%20Edge&logoColor=0078D7" height="32">
@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/Opera-white?style=for-the-badge&logo=Opera&logoColor=FF1B2D" height="32">
 </p>
 
-### Learning sources & assessment
+## Learning sources & assessment
 <p align="center">
     <img src="https://img.shields.io/badge/Pluralsight-white?style=for-the-badge&logo=Pluralsight&logoColor=F15B2A" height="32">
     <img src="https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=Coursera&logoColor=2A73CC" height="32">
