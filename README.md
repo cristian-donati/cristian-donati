@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=NPM&logoColor=CB3837" height="32">
     <br/>
     <img src="https://img.shields.io/badge/OpenID-white?style=for-the-badge&logo=OpenID&logoColor=F78C40" height="32">
-    &emsp;&ensp;
+    &emsp;&nbsp;
     <img src="https://img.shields.io/badge/Auth0-white?style=for-the-badge&logo=Auth0&logoColor=EB5424" height="32">
     &emsp;&ensp;
     <img src="https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=000000" height="32">
