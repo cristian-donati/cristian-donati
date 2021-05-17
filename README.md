@@ -11,7 +11,7 @@
 
 ## Frameworks & Languages
 <p align="center">
-    <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.net&logoColor=5128D4" height="32">
+    <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=5128D4" height="32">
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=239120" height="32">
     <br/>
