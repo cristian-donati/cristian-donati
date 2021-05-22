@@ -2,11 +2,11 @@
 <p align="center">
     <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-white.svg?style=for-the-badge&logo=facebook&logoColor=1877F2" height="32"></a>
     &emsp;&ensp;
-    <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-white.svg?style=for-the-badge&logo=instagram&logoColor=E4405F" height="32"></a>
+    <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="32"></a>
     &emsp;&ensp;&nbsp;
-    <a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-white.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="32"></a>
+    <a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"></a>
     &emsp;&ensp;&nbsp;
-    <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-white.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="32"></a>
+    <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="32"></a>
 </p>
 
 ## Frameworks & Languages
@@ -100,12 +100,13 @@
 
 <br/>
 
+<!--
 **Looking forward to learn**
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <br/>
 
-<!--
+
 <details open>
 <summary><b>Looking forward to learn</b></summary>
 
@@ -114,9 +115,9 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
 </details>
--->
+
 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=cristian-donati&color=brightgreen)
-
+-->
