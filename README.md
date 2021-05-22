@@ -1,6 +1,6 @@
 ## Connect with me
 <p align="center">
-    <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-white.svg?style=for-the-badge&logo=facebook&logoColor=1877F2" height="32"></a>
+    <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="32"></a>
     &emsp;&ensp;
     <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="32"></a>
     &emsp;&ensp;&nbsp;
