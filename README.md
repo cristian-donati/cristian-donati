@@ -6,28 +6,46 @@
     &emsp;
     <a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"></a>
     &emsp;
-    <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="32"></a>
+    <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" height="32"></a>
 </p>
 
-## Frameworks & Languages
+### Frameworks & Languages
 <p>
-    <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dot-net&logoColor=5128D4" height="32">
-    <img src="https://img.shields.io/badge/Blazor-white?style=for-the-badge&logo=blazor&logoColor=5128D4" height="32">
-    <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=239120" height="32">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Core-5128D4?style=flat-square&logo=.NET&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Blazor-5128D4?style=flat-square&logo=Blazor&logoColor=white" height="25" />
+    &emsp;&emsp;
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" height="23.5" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" height="25" />
     <br/>
-    <img src="https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=DD0031" height="32">
-    <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=007ACC" height="32">
     <br/>
-    <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=E34F26" height="32">
-    <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=CSS3&logoColor=1572B6" height="32">
-    <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" height="32">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" height="24" />
     <br/>
-    <img src="https://img.shields.io/badge/SQL%20Server-white?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=CC2927" height="32">
-    <img src="https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=CC2927" height="32">
-    <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1" height="32">
+    <br/>
+    <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-SQLite-0F425D?style=flat-square&logo=SQLite&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="25" />
+    <br/>
+    <br/>
+    <br/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black" height="24" />   
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" height="24" /> <br/>
+    <br/>
+    <br/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=OpenAPIInitiative&logoColor=white" height="24" />
+    <br/>
+    <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=Claude&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=GoogleGemini&logoColor=white" height="24" />
+    <br/>
+    <br/>
+    <br/>
 </p>
 
-## Tools
+### Tools
 <p>
     <img src="https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91" height="32">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC" height="32">
@@ -46,14 +64,14 @@
     <img src="https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=Trello&logoColor=0079BF" height="32">
 </p>
 
-## Cloud providers
+### Cloud providers
 <p>
     <img src="https://img.shields.io/badge/Microsoft%20Azure-white?style=for-the-badge&logo=Microsoft%20Azure&logoColor=0089D6" height="32">
     <img src="https://img.shields.io/badge/Amazon%20AWS-white?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" height="32">
     <img src="https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=Google%20Cloud&logoColor=4285F4" height="32">
 </p>
 
-## Other knowledge
+### Other knowledge
 <p>
     <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=563D7C" height="32">
     <img src="https://img.shields.io/badge/Material%20Design-white?style=for-the-badge&logo=Material%20Design&logoColor=757575" height="32">
@@ -66,20 +84,20 @@
     <img src="https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=000000" height="32">
 </p>
 
-## Preferred browsers
+### Preferred browsers
 <p>
-    <img src="https://img.shields.io/badge/Chrome-white?style=for-the-badge&logo=Google%20Chrome&logoColor=4285F4" height="32">
-    <img src="https://img.shields.io/badge/Edge-white?style=for-the-badge&logo=Microsoft%20Edge&logoColor=0078D7" height="32">
-    <img src="https://img.shields.io/badge/Firefox-white?style=for-the-badge&logo=Firefox&logoColor=FF7139" height="32">
+    <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/Edge-2771D8?style=flat-square&logo=edge-white&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-FireFox-FF7139?style=flat-square&logo=FireFoxBrowser&logoColor=white" height="23.5" />
 </p>
 
-## Learning sources & assessment
+### Learning sources & assessment
 <p>
-    <img src="https://img.shields.io/badge/Pluralsight-white?style=for-the-badge&logo=Pluralsight&logoColor=F15B2A" height="32">
-    <img src="https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=Coursera&logoColor=2A73CC" height="32">
-    <br/>
-    <img src="https://img.shields.io/badge/CodeWars-white?style=for-the-badge&logo=CodeWars&logoColor=AD2C27" height="32">
-    <img src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=HackerRank&logoColor=2EC866" height="32">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Pluralsight-F15B2A?style=flat-square&logo=Pluralsight&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white" height="24" />
+    &emsp;&emsp;
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" height="24" />
 </p>
 
 <br/>
