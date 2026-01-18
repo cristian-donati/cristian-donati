@@ -11,22 +11,22 @@
 
 ### Frameworks & Languages
 <p>
-    <img alt="TypeScript" src="https://img.shields.io/badge/-Core-5128D4?style=flat-square&logo=.NET&logoColor=white" height="25" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-Blazor-5128D4?style=flat-square&logo=Blazor&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Core-5128D4?style=flat-square&logo=.NET&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Blazor-5128D4?style=flat-square&logo=Blazor&logoColor=white" height="24" />
     &emsp;&emsp;
-    <img alt="TypeScript" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" height="23.5" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" height="24" />
     <br/>
     <br/>
     <img alt="TypeScript" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="24" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white" height="24" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" height="24" />
     <br/>
     <br/>
     <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" height="24" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-SQLite-0F425D?style=flat-square&logo=SQLite&logoColor=white" height="25" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" height="25" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="25" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-SQLite-0F425D?style=flat-square&logo=SQLite&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="24" />
     <br/>
     <br/>
     <br/>
@@ -86,9 +86,9 @@
 
 ### Preferred browsers
 <p>
-    <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/Edge-2771D8?style=flat-square&logo=edge-white&logoColor=white" height="25" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" height="25" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-FireFox-FF7139?style=flat-square&logo=FireFoxBrowser&logoColor=white" height="23.5" />
+    <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/Edge-2771D8?style=flat-square&logo=edge-white&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" height="24" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-FireFox-FF7139?style=flat-square&logo=FireFoxBrowser&logoColor=white" height="24" />
 </p>
 
 ### Learning sources & assessment
