@@ -20,7 +20,7 @@
 
 
 
-<table  border="0">
+<table  style="border: 0;">
   <thead align="center">
     <tr border: none;>
       <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
