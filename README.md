@@ -9,13 +9,23 @@
     <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" height="32"></a>
 </p>
 
-<table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
+<table>
+  <thead>
+    <tr align="center">
+      <td><b></b></td>
+      <td><b></b></td>
+      <td><b></b></td>
+      <td><b></b></td>
+      <td><b></b></td>
     </tr>
   </thead>
   <tbody>
+    <tr align="center">
+      <td colspan=5><b></b></td>
+    </tr>
+    <tr align="center">
+      <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
+    </tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/-Core-5128D4?logo=.NET&logoColor=white" height="24" />
@@ -50,6 +60,12 @@
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" height="24" />
       </td>
     </tr>
+    <tr align="center">
+      <td colspan=5><b>&emsp;</b></td>
+    </tr>
+    <tr align="center">
+      <td colspan=5><b>🖼️ Databasess</b></td>
+    </tr>
     <tr>
       <td>
         <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="24" />
@@ -69,6 +85,8 @@
     </tr>
   </tbody>
 </table>
+
+
 
 ### Frameworks & Languages
 <p>
