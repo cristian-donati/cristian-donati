@@ -9,7 +9,7 @@
     <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" height="32"></a>
 </p>
 
-### Frameworks & Languages
+### 🖼️ Frameworks & Languages
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Frameworks & Languages |
 |--|
 | &emsp;<img src="https://img.shields.io/badge/-Core-5128D4?logo=.NET&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-Blazor-5128D4?logo=Blazor&logoColor=white" height="24" />&emsp;&emsp;&emsp;&emsp;<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white" height="24" />&emsp; |
@@ -23,7 +23,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td colspan=5><b>🎁 Frameworks & Languages</b></td>
+      <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
     </tr>
   </thead>
   <tbody>
