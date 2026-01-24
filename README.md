@@ -26,6 +26,7 @@
     <tr align="center">
       <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
     </tr>
+    <tr></tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/-Core-5128D4?logo=.NET&logoColor=white" height="24" />
@@ -43,6 +44,7 @@
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white" height="24" />
       </td>
     </tr>
+    <tr></tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" height="24" />
@@ -60,12 +62,15 @@
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" height="24" />
       </td>
     </tr>
+    <tr></tr>
     <tr align="center">
       <td colspan=5><b>&emsp;</b></td>
     </tr>
+    <tr></tr>
     <tr align="center">
       <td colspan=5><b>🖼️ Databasess</b></td>
     </tr>
+    <tr></tr>
     <tr>
       <td>
         <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="24" />
