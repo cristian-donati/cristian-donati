@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/-1877F2.svg?logo=facebook&logoColor=white" height="40"></a>
+    <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/-1877F2.svg?logo=facebook&logoColor=white" style="height: 40px;"></a>
     &emsp;&emsp;&emsp;
     <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/-E4405F.svg?logo=instagram&logoColor=white" height="40"></a>
     &emsp;&emsp;&emsp;
