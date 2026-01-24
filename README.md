@@ -66,7 +66,6 @@
     <tr align="center">
       <td colspan=5><b>&emsp;</b></td>
     </tr>
-    <tr></tr>
     <tr align="center">
       <td colspan=5><b>🖼️ Databasess</b></td>
     </tr>
