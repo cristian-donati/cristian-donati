@@ -10,6 +10,82 @@
 </p>
 
 ### Frameworks & Languages
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Frameworks & Languages |
+|--|
+| &emsp;<img src="https://img.shields.io/badge/-Core-5128D4?logo=.NET&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-Blazor-5128D4?logo=Blazor&logoColor=white" height="24" />&emsp;&emsp;&emsp;&emsp;<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white" height="24" />&emsp; |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" height="24" /> |
+| &ensp;&emsp;<img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-SQLite-0F425D?logo=SQLite&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-Postgres-336791?logo=postgresql&logoColor=white" height="24" />&emsp;<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white" height="24" /> |
+
+
+
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td colspan=5><b>🎁 Frameworks & Languages</b></td>
+      <td><b></b></td>
+      <td><b></b></td>
+      <td><b></b></td>
+      <td><b></b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/-Core-5128D4?logo=.NET&logoColor=white" height="24" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Blazor-5128D4?logo=Blazor&logoColor=white" height="24" />
+      </td>
+      <td align="center">
+        &emsp;
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" height="24" />
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white" height="24" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" height="24" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS&logoColor=white" height="24" />
+      </td>
+      <td align="center">
+        &emsp;
+      </td>
+      <td align="center">
+        &emsp;
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" height="24" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="24" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-SQLite-0F425D?logo=SQLite&logoColor=white" height="24" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Postgres-336791?logo=postgresql&logoColor=white" height="24" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white" height="24" />
+      </td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white" height="24" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Frameworks & Languages
 <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-Core-5128D4?style=flat-square&logo=.NET&logoColor=white" height="24" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-Blazor-5128D4?style=flat-square&logo=Blazor&logoColor=white" height="24" />
