@@ -9,7 +9,7 @@
     <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" height="32"></a>
 </p>
 
-<table>
+<table align="center">
   <tbody>
     <tr align="center">
       <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
