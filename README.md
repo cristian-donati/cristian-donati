@@ -10,19 +10,7 @@
 </p>
 
 <table>
-  <thead>
-    <tr align="center">
-      <td><b></b></td>
-      <td><b></b></td>
-      <td><b></b></td>
-      <td><b></b></td>
-      <td><b></b></td>
-    </tr>
-  </thead>
   <tbody>
-    <tr align="center">
-      <td colspan=5><b></b></td>
-    </tr>
     <tr align="center">
       <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
     </tr>
