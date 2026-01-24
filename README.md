@@ -24,10 +24,6 @@
   <thead align="center">
     <tr border: none;>
       <td colspan=5><b>🎁 Frameworks & Languages</b></td>
-      <td><b></b></td>
-      <td><b></b></td>
-      <td><b></b></td>
-      <td><b></b></td>
     </tr>
   </thead>
   <tbody>
