@@ -27,7 +27,7 @@
     <tr align="center">
       <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
     </tr>
-    <tr align="center">
+    <tr>
       <td>
         <img src="https://img.shields.io/badge/-Core-5128D4?logo=.NET&logoColor=white" height="24" />
       </td>
@@ -45,7 +45,7 @@
       </td>
     </tr>
     <tr></tr>
-    <tr align="center">
+    <tr>
       <td>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" height="24" />
       </td>
@@ -69,7 +69,7 @@
     <tr align="center">
       <td colspan=5><b>🖼️ Databasess</b></td>
     </tr>
-    <tr align="center">
+    <tr>
       <td>
         <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="24" />
       </td>
