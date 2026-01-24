@@ -5,16 +5,16 @@
 <p align="center">
     <a href="https://www.facebook.com/Cristian.Donati.1980" target="_blank"><img src="https://img.shields.io/badge/-1877F2.svg?logo=facebook&logoColor=white" style="height: 40px;"></a>
     &emsp;&emsp;&emsp;
-    <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/-E4405F.svg?logo=instagram&logoColor=white" height="40"></a>
+    <a href="https://instagram.com/cris-donati" target="_blank"><img src="https://img.shields.io/badge/-E4405F.svg?logo=instagram&logoColor=white" style="height: 40px;"></a>
     &emsp;&emsp;&emsp;
-    <a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=white" height="40"></a>
+    <a href="https://linkedin.com/in/cristian-donati" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=white" style="height: 40px;"></a>
     <br/>
     <br/>
-    <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/-181717.svg?logo=x&logoColor=white" height="40"></a>
+    <a href="https://twitter.com/cristiandonati8" target="_blank"><img src="https://img.shields.io/badge/-181717.svg?logo=x&logoColor=white" style="height: 40px;"></a>
     &emsp;&emsp;&emsp;
-    <a href="https://www.youtube.com/@cristiandonati" target="_blank"><img src="https://img.shields.io/badge/-C00000.svg?logo=YouTube&logoColor=white" height="40"></a>
+    <a href="https://www.youtube.com/@cristiandonati" target="_blank"><img src="https://img.shields.io/badge/-C00000.svg?logo=YouTube&logoColor=white" style="height: 40px;"></a>
     &emsp;&emsp;&emsp;
-    <a href="hhttps://www.twitch.tv/cristiandonati" target="_blank"><img src="https://img.shields.io/badge/-%239146FF.svg?logo=Twitch&logoColor=white" height="40"></a>
+    <a href="hhttps://www.twitch.tv/cristiandonati" target="_blank"><img src="https://img.shields.io/badge/-%239146FF.svg?logo=Twitch&logoColor=white" style="height: 40px;"></a>
 </p>
 
 <br/>
