@@ -23,10 +23,10 @@
 
 <table align="center">
   <tbody>
+    <tr></tr>
     <tr align="center">
       <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
     </tr>
-    <tr></tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/-Core-5128D4?logo=.NET&logoColor=white" height="24" />
