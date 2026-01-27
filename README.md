@@ -67,7 +67,7 @@
       <td colspan=5><b>&emsp;</b></td>
     </tr>
     <tr align="center">
-      <td colspan=5><b>🖼️ Databases</b></td>
+      <td colspan=5><b>🗄 Databases</b></td>
     </tr>
     <tr>
       <td>
@@ -91,7 +91,7 @@
       <td colspan=5><b>&emsp;</b></td>
     </tr>
     <tr align="center">
-      <td colspan=5><b>🖼️ Frameworks & Languages</b></td>
+      <td colspan=5><b>📚 Libraries</b></td>
     </tr>
     <tr>
       <td>
@@ -115,7 +115,7 @@
       <td colspan=5><b>&emsp;</b></td>
     </tr>
     <tr align="center">
-      <td colspan=5><b>🖼️ AI</b></td>
+      <td colspan=5><b>🤖 AI</b></td>
     </tr>
     <tr>
       <td>
@@ -139,7 +139,7 @@
       <td colspan=5><b>&emsp;</b></td>
     </tr>
     <tr align="center">
-      <td colspan=5><b>🖼️ Local LLM</b></td>
+      <td colspan=5><b>🤖🗨️ Local LLM</b></td>
     </tr>
     <tr>
       <td>
