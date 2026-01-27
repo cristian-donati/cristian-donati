@@ -139,7 +139,7 @@
       <td colspan=5><b>&emsp;</b></td>
     </tr>
     <tr align="center">
-      <td colspan=5><b>🤖🗨️ Local LLM</b></td>
+      <td colspan=5><b>🗨️🤖 Local LLM</b></td>
     </tr>
     <tr>
       <td>
