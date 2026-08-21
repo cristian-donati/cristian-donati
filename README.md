@@ -22,7 +22,7 @@
     &emsp;&emsp;&emsp;
     <a href="https://www.youtube.com/@cristiandonati" target="_blank"><img src="https://img.shields.io/badge/-C00000.svg?logo=YouTube&logoColor=white" style="height: 40px;"></a>
     &emsp;&emsp;&emsp;
-    <a href="hhttps://www.twitch.tv/cristiandonati" target="_blank"><img src="https://img.shields.io/badge/-%239146FF.svg?logo=Twitch&logoColor=white" style="height: 40px;"></a>
+    <a href="https://www.twitch.tv/cristiandonati" target="_blank"><img src="https://img.shields.io/badge/-%239146FF.svg?logo=Twitch&logoColor=white" style="height: 40px;"></a>
 </p>
 
 <br/>
